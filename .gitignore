@@ -1,0 +1,15 @@
+.vscode
+
+build
+install
+package
+
+.python-version
+requirements.txt
+bak
+
+igl.log
+
+data/img
+
+binary_to_compressed_c
