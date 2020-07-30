@@ -168,7 +168,7 @@ Once the app is launched you may press the `h` key on your keyboard to see the a
 ### :black_nib: Font
 
 If you're wondering about the font used in the app, it's called [Hermit](https://github.com/pcaro90/hermit) and it is gorgeous!
-Kudos to @pcaro90 for the lovely work.
+Kudos to [@pcaro90](https://github.com/pcaro90) for the lovely work.
 
 
 <!-- LICENSE -->
