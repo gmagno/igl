@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ### :envelope: Contact
 
-Gonçalo Magno - [@gmagno6](https://twitter.com/gmagno6) - goncalo@gmagno.dev
+Gonçalo Magno - [@gmagno6](https://twitter.com/gmagno6) - goncalo.magno@gmail.com
 
 Project Link: [https://github.com/gmagno/igl](https://github.com/gmagno/igl)
 
