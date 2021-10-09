@@ -99,6 +99,7 @@ You may, optionally, download the latest OpenGL Loader files with `glad`:
 
 ```bash
 $ python3 -m venv .venv        # creates a python virtual environment
+$ source .venv/bin/activate    # activate the virtual environment
 $ python3 -m pip install glad  # installs glad with which we fetch the source
 $ glad --generator c --out-path ext/glad  # overrides whatever is in ext/glad
 ```
