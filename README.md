@@ -78,7 +78,7 @@ In order to build the app also make sure you have:
 <!-- GETTING STARTED -->
 ### :baby_bottle: Getting Started
 
-For my fellow linux users, you may go straight to the [releases page](https://github.com/gmagno/img/releases), fetch the latest binary (AppImage) and conveniently add it to your system without having to go through the building process:
+For my fellow linux users, you may go straight to the [releases page](https://github.com/gmagno/igl/releases), fetch the latest binary (AppImage) and conveniently add it to your system without having to go through the building process:
 
 ```bash
 $ wget https://github.com/gmagno/igl/releases/latest/download/igl-???????-x86_64.AppImage
